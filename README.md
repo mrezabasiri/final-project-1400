@@ -19,9 +19,9 @@
 - [گزارش پروژه پایانی در فرمت ورد (استاد عزیزم با عرض پوزش گزارشم دارای مشکلات فراوان ساختاری می باشد)](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.docx)
 - [گزارش پروژه پایانی در فرمت pdf](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
 - [آیکون اصلی طراحی شده برای فروشگاه توسط بنده](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/iconasli.psd) 
-- [فرم انگیزه نامه من](https://github.com/mrezabasiri/mysopbasiri/blob/main/my%20sop.pdf)
-- [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-18439174/pdf/)
-- [Patchwork](https://github.com/mrezabasiri/pnu99taklif/blob/main/patchwork/mypatchwork.jpg)
+- [بخش درباره ما (استاد این صفحه خودم رو داخل فروشگاه معرفی کردم)](https://digiresoon.ir/page/%D8%B3%D9%84%D8%A7%D9%85-%D9%88-%D8%B9%D8%B1%D8%B6-%D8%A7%D8%AF%D8%A8-%D8%AE%D8%AF%D9%85%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF-%D8%B1%D8%B6%D9%88%DB%8C)
+- [سورس فروشگاه دیجی رسون نوشته شده با لاراول](https://s21.picofile.com/file/8445139684/digiresoon.zip.html)
+- [پایگاه داده فروشگاه جهت آپلود در هاست](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/laravelShop(1).sql)
 
 
 ------------------
