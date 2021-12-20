@@ -16,8 +16,8 @@
 
 - [آدرس تهیه دوره آموزشی ساخت فروشگاه](https://www.idehpardazanjavan.com/%D8%AF%D9%88%D8%B1%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%DA%86%D9%86%D8%AF-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%DA%AF%DB%8C)
 - [لینک وب سایت ساخته شده من (فروشگاه همواره تخفیف دیجی رسون)](https://digiresoon.ir)
-- [گزارش کارآموزی ساخت بنر در فرمت ورد (استاد عزیزم با عرض پوزش گزارشم دارای مشکلات فراوان ساختاری می باشد)](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.docx)
-- [گزارش کارآموزی ساخت بنر در فرمت pdf](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
+- [گزارش پروژه پایانی در فرمت ورد (استاد عزیزم با عرض پوزش گزارشم دارای مشکلات فراوان ساختاری می باشد)](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.docx)
+- [گزارش پروژه پایانی در فرمت pdf](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
 - [فرم رزومه و سوابق کاری من](https://mrezabasiri.github.io/barayeman/) 
 - [فرم انگیزه نامه من](https://github.com/mrezabasiri/mysopbasiri/blob/main/my%20sop.pdf)
 - [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-18439174/pdf/)
