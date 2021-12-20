@@ -18,7 +18,7 @@
 - [لینک وب سایت ساخته شده من (فروشگاه همواره تخفیف دیجی رسون)](https://digiresoon.ir)
 - [گزارش پروژه پایانی در فرمت ورد (استاد عزیزم با عرض پوزش گزارشم دارای مشکلات فراوان ساختاری می باشد)](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.docx)
 - [گزارش پروژه پایانی در فرمت pdf](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
-- [فرم رزومه و سوابق کاری من](https://mrezabasiri.github.io/barayeman/) 
+- [آیکون اصلی طراحی شده برای فروشگاه توسط بنده](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/iconasli.psd) 
 - [فرم انگیزه نامه من](https://github.com/mrezabasiri/mysopbasiri/blob/main/my%20sop.pdf)
 - [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-18439174/pdf/)
 - [Patchwork](https://github.com/mrezabasiri/pnu99taklif/blob/main/patchwork/mypatchwork.jpg)
