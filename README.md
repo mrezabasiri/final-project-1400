@@ -35,9 +35,13 @@
 - [گزارش کارآموزی ساخت بنر در فرمت pdf](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C.pdf)
 - بنرهای طراحی شده با فتوشاپ برای انجمن، دارای دو فرمت psd (فرمت فتوشاپ) و فرمت jpg 👇  
 - [بنر طراحی شده اول، ژنتیک تغذیه ای با فرمت png](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%D8%B3%D8%AA%20%DA%98%D9%86%D8%AA%DB%8C%DA%A9%20%D8%AA%D8%BA%D8%B0%DB%8C%D9%87%20%D8%A7%DB%8C.png)
-- [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-18439174/pdf/)
-- [Patchwork](https://github.com/mrezabasiri/pnu99taklif/blob/main/patchwork/mypatchwork.jpg)
-
+- [بنر طراحی شده اول، ژنتیک تغذیه ای با فرمت psd فتوشاپ](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%D8%B3%D8%AA%20%DA%98%D9%86%D8%AA%DB%8C%DA%A9%20%D8%AA%D8%BA%D8%B0%DB%8C%D9%87%20%D8%A7%DB%8C.psd)
+- [بنر طراحی شده دوم، کاربرد نانو با فرمت png](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%D8%B3%D8%AA%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%20%D9%86%D8%A7%D9%86%D9%88.png)
+- [بنر طراحی شده دوم، کاربرد نانو با فرمت psd فتوشاپ](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%D8%B3%D8%AA%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%20%D9%86%D8%A7%D9%86%D9%88.psd)
+- [بنر طراحی شده سوم، پیشگیری از بیماری با فرمت png](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%DB%8C%D8%B4%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%A7%D8%B2%20%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C%20%D9%87%D8%A7.png)
+- [بنر طراحی شده سوم، پیشگیری از بیماری با فرمت psd فتوشاپ](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%DB%8C%D8%B4%DA%AF%DB%8C%D8%B1%DB%8C%20%D8%A7%D8%B2%20%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C%20%D9%87%D8%A7.psd)
+- [بنر طراحی شده چهارم، ورزش و مکمل ها با فرمت png](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%D8%B3%D8%AA%20%D9%88%D8%B1%D8%B2%D8%B4%DB%8C%20%D9%88%20%D9%85%DA%A9%D9%85%D9%84.png)
+- [بنر طراحی شده چهارم، ورزش و مکمل ها با فرمت psd فتوشاپ](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%D8%B3%D8%AA%20%D9%88%D8%B1%D8%B2%D8%B4%DB%8C%20%D9%88%20%D9%85%DA%A9%D9%85%D9%84.psd)
 
 
 
