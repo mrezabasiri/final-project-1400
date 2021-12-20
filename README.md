@@ -14,7 +14,7 @@
 ## پروژه ساخت وب سایت فروشگاهی با php و لاراول✏
 منبع یادگیری: از وب سایت ایده پردازان جوان دوره آموزشی ساخت فروشگاه اینترنتی 
 
-- [آدرس تهیه دوره آموزشی ساخت فروشگاه](https://digiresoon.ir)
+- [آدرس تهیه دوره آموزشی ساخت فروشگاه](https://www.idehpardazanjavan.com/%D8%AF%D9%88%D8%B1%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%DA%86%D9%86%D8%AF-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%DA%AF%DB%8C)
 - [لینک وب سایت ساخته شده من (فروشگاه همواره تخفیف دیجی رسون)](https://digiresoon.ir)
 - [PNU_3991_AR](https://github.com/mrezabasiri/pnu99taklif)
 - [فرم رزومه و سوابق کاری من](https://mrezabasiri.github.io/barayeman/) 
