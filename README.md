@@ -31,10 +31,10 @@
 
 
 - [لینک انجمن ایمنی زیستی ایران](https://digiresoon.ir)
-- [گزارش کارآموزی ساخت بنر در فرمت ورد (استاد عزیزم با عرض پوزش گزارشم دارای مشکلات فراوان ساختاری می باشد)](https://github.com/mrezabasiri/pnu99taklif)
-- [گزارش کارآموزی ساخت بنر در فرمت pdf](https://mrezabasiri.github.io/barayeman/)
+- [گزارش کارآموزی ساخت بنر در فرمت ورد (استاد عزیزم با عرض پوزش گزارشم دارای مشکلات فراوان ساختاری می باشد)](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C.docx)
+- [گزارش کارآموزی ساخت بنر در فرمت pdf](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%85%20%D8%A8%D8%B5%DB%8C%D8%B1%DB%8C%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C.pdf)
 - بنرهای طراحی شده با فتوشاپ برای انجمن، دارای دو فرمت psd (فرمت فتوشاپ) و فرمت jpg 👇  
-- [فرم انگیزه نامه من](https://github.com/mrezabasiri/mysopbasiri/blob/main/my%20sop.pdf)
+- [بنر طراحی شده اول، ژنتیک تغذیه ای با فرمت png](https://github.com/mrezabasiri/final-project-and-internship-1400/blob/main/%D9%BE%D8%B3%D8%AA%20%DA%98%D9%86%D8%AA%DB%8C%DA%A9%20%D8%AA%D8%BA%D8%B0%DB%8C%D9%87%20%D8%A7%DB%8C.png)
 - [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-18439174/pdf/)
 - [Patchwork](https://github.com/mrezabasiri/pnu99taklif/blob/main/patchwork/mypatchwork.jpg)
 
